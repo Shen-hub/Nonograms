@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nonogram</string>
+    <string name="nonogram">NONOGRAM</string>
+    <string name="start">Начать</string>
+</resources>

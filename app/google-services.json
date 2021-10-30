@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "788872514183",
+    "firebase_url": "https://nonograms-ccd6f-default-rtdb.firebaseio.com",
+    "project_id": "nonograms-ccd6f",
+    "storage_bucket": "nonograms-ccd6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788872514183:android:c2a9622dbd5af1cb5a4622",
+        "android_client_info": {
+          "package_name": "com.example.nonograms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788872514183-rq506iik6rv5pihbdvp4cf8sjeq1k42f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhGjWrYTEtaq4O0XpBVRlPzMKMIUpe6gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788872514183-rq506iik6rv5pihbdvp4cf8sjeq1k42f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
